@@ -46,6 +46,7 @@ export default {
   cursor: pointer;
   &__text{
     margin-left: 8px;
+    text-align: left;
   }
   &:hover>.todo-item__check{
     opacity: 1;
